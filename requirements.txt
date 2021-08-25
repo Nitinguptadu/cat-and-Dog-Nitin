@@ -29,7 +29,7 @@ Keras-Preprocessing==1.1.0
 tb-nightly==2.1.0a20191202
 tensorboard==2.1.0
 tensorflow-estimator==2.1.0
-tensorflow==2.0.0b1
+tensorflow==2.5.1
 numpy==1.18.1
 
 
